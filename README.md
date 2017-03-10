@@ -12,6 +12,7 @@ Use your own profile picture and replace the existing file here: `./assets/image
 
 ## Tree
 ➜  showcase_static_caply
+```
 .
 ├── LICENSE.md
 ├── README.md
@@ -69,6 +70,7 @@ Use your own profile picture and replace the existing file here: `./assets/image
 └── z-index.html
 
 11 directories, 43 files
+```
 
 ## Credits
 
