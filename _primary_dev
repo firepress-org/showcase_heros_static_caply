@@ -1,1 +1,8 @@
-The development of this theme is made over gitlab than copy over our public github repo.
+NOTE
+The development of this theme is made privately on our GitLab repo.
+Copy over our public GitHub repo.
+
+We do this simply because it’s simpler to manage to whole infrastructure on GitLab.
+
+Cheers!
+Pascal
