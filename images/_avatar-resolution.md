@@ -1,0 +1,1 @@
+To get a great HiDPi resolution. the avatar profile picture shall be exactly 384px by 384px.
