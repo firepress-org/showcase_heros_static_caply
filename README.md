@@ -8,7 +8,7 @@ https://github.com/firepress-org/showcase_static_caply
 not available yet
 
 ## Make it your own
-Use your own profile picture and replace the existing file here: `./assets/images/avatar.jpg`
+Use your own profile picture and replace the file: `./assets/images/avatar.jpg`
 
 ## Tree
 ➜  showcase_static_caply
