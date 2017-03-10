@@ -1,5 +1,5 @@
-## Static Theme Identity
-Work in progress
+## What is it
+Caply is a static theme.
 
 https://github.com/firepress-org/showcase_static_caply
 
