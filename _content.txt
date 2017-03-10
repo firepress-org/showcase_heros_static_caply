@@ -1,0 +1,17 @@
+[MAIN_TITLE]
+My name is Caply
+
+[MAIN_CONTENT]
+As a static page, I help engineers at FirePress to test the infrastructure. By the way this page is a demo. Make this page your own!
+
+[PROFIL_PICTURE_SROUCE_URL]
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/profil/profil_woman_128.jpg
+
+[BUTTON_CALL_TO_ACTION]
+GO TO NEXT LEVEL >
+
+[BUTTON_URL]
+http://cloudwait.com/showcase/static/caply/
+
+[BACKGROUND_SOURCE_URL]
+https://raw.githubusercontent.com/firepress-org/theme-assets/master/common-tools/gradient-backgrounds/029-Everlasting-Sky.jpg
